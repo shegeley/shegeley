@@ -1,5 +1,7 @@
-My name is Grigory Shepelev (that combines to my username in a weird way). I am a math student and functional programming enthusiast, living in Belgorod, Russia. 
+My name is Grigory Shepelev (that combines to my username @shegeley in a weird way). 
 
-I love avocados, asian cuisine, travels, podcasts. A lazy enthusiast of Linux, open source, functional programming.
+I am a math student and a lazy enthusiast of functional programming, living in Belgorod, Russia. 
 
-I enjoy functional programming and some parts of math. Played with Haskell a little but now interested in Clojure/ClojureScript. Somewhat familiar with docker, web development and telegram api. Sometimes hanging on CodingGame and solving puzzles.
+Mostly interested in lisp-like languages (guile, clojure) although played with Haskell a little. Somewhat familiar with docker and web development. 
+
+Besides I love podcasts, reading, running and some parts of DIY.
