@@ -8,4 +8,4 @@ Fan of reproducibility and stability. Using NixOS. Tried GuixSD (I'd prefer conf
 
 Active user of Emacs (Doom Emacs). 
 
-Besides I love podcasts, reading, running and some parts of DIY.
+Besides I enjoy meditation, somewhat politics, podcasts, reading, running and general physical keeping-in-shape stuff, and some parts of DIY.
