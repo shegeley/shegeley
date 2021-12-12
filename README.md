@@ -4,7 +4,7 @@ I am a math student and a lazy enthusiast of functional programming, living in B
 
 Mostly interested in lisp-like languages (Clojure, Racket, Guile, Elisp) although played with Haskell a little. Somewhat familiar with docker and web development. 
 
-Fan of reproducibility and stability. Using NixOS. Tried GuixSD (I'd prefer configs in Lisp but it's too raw for me for now).
+Fan of reproducibility and stability. Using GuixOS.
 
 Active user of Emacs (Doom Emacs). 
 
