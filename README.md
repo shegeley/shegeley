@@ -2,7 +2,7 @@ My name is Grigory Shepelev (that combines to my username @shegeley in a weird w
 
 I am a math bachelor and a lazy enthusiast of functional programming, living in Belgorod, Russia. 
 
-Mostly interested in lisp-like languages (Clojure, Guile) although played with Haskell a little. Somewhat familiar with docker and web development. 
+Mostly interested in lisp-like languages (Clojure, Guile Scheme) although played with Haskell a little. Somewhat familiar with docker and web development. 
 
 Fan of reproducibility and stability. Using GNU Guix operating system.
 
