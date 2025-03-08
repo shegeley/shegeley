@@ -6,4 +6,4 @@ Mostly interested in lisp-like languages (Clojure, Scheme, Common Lisp) although
 
 Fan of reproducibility and stability. Using [RDE-flawored](https://git.sr.ht/~abcdw/rde) [GNU Guix](https://guix.gnu.org) operating system
 
-Besides I enjoy meditation, podcasts, reading, running and general physical keeping-in-shape stuff, and some parts of DIY.
+Besides I enjoy meditation, reading, running and general physical keeping-in-shape stuff, some DIY and learning digital drawing with Krita.
